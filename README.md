@@ -23,7 +23,12 @@ Apply erosion and dilation using cv2.MORPH_OPEN and cv2.MORPH_CLOSE.
 Show the images using cv2.imshow().
  
 ## Program:
-
+```
+/*
+Developed by   : Kumaran B
+Register Number: 212220230026
+*/
+```
 ``` Python
 # Import the necessary packages
 import cv2
