@@ -8,21 +8,19 @@ To implement Opening and Closing using Python and OpenCV.
 2. OpenCV
 ## Algorithm:
 ### Step1:
-<br>
-
+Import the necessary packages.
 
 ### Step2:
-<br>
+Create the text image using cv2.putText.
 
 ### Step3:
-<br>
+Then create the structuring element for opening and closing.
 
 ### Step4:
-<br>
+Apply erosion and dilation using cv2.MORPH_OPEN and cv2.MORPH_CLOSE.
 
 ### Step5:
-<br>
-
+Show the images using cv2.imshow().
  
 ## Program:
 
